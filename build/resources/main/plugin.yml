@@ -1,0 +1,4 @@
+name: Minecraft_sample
+version: '1.0-SNAPSHOT'
+main: Minecraft.example.minecraft_sample.Minecraft_sample
+api-version: '1.21'
